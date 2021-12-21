@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/multistepform/static/css/main.80919a94.chunk.css",
+    "main.js": "/multistepform/static/js/main.fb023574.chunk.js",
+    "main.js.map": "/multistepform/static/js/main.fb023574.chunk.js.map",
+    "runtime-main.js": "/multistepform/static/js/runtime-main.5854fa93.js",
+    "runtime-main.js.map": "/multistepform/static/js/runtime-main.5854fa93.js.map",
+    "static/js/2.d1f0922e.chunk.js": "/multistepform/static/js/2.d1f0922e.chunk.js",
+    "static/js/2.d1f0922e.chunk.js.map": "/multistepform/static/js/2.d1f0922e.chunk.js.map",
+    "index.html": "/multistepform/index.html",
+    "static/css/main.80919a94.chunk.css.map": "/multistepform/static/css/main.80919a94.chunk.css.map",
+    "static/js/2.d1f0922e.chunk.js.LICENSE.txt": "/multistepform/static/js/2.d1f0922e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5854fa93.js",
+    "static/js/2.d1f0922e.chunk.js",
+    "static/css/main.80919a94.chunk.css",
+    "static/js/main.fb023574.chunk.js"
+  ]
+}
